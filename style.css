@@ -4,7 +4,7 @@ body{
     
 }
 .wrapper{
-    background: url(./eldritch-codejam/assets/home.png) ;
+    background: url(./assets/home.png) ;
     height: 100%;
     position: relative;
 }
